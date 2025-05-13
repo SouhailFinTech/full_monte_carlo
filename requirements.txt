@@ -1,0 +1,10 @@
+streamlit
+numpy
+matplotlib
+pandas
+yfinance
+scipy
+plotly
+pdfkit
+weasyprint
+jinja2
